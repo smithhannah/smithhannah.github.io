@@ -1,4 +1,11 @@
+<!DOCTYPE html>
 <html>
 <body>
-<h1 style ="text-align: center;">My name is Hannah, welcome to my site!</h1>
+
+<h2>My name is Hannah Smith, welcome to my site!</h2>
+<p>This is Me.</p>
+
+<img src="HannahHeadshot.jpg" width="104" height="142">
+
 </body>
+</html>
